@@ -1,0 +1,102 @@
+[
+    {
+    "id":1,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"},
+
+
+  {  "id":2,
+    "name":"comic book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"},
+
+{
+    "id":3,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":110,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"Entainment",
+    "description":"This is the story book"},
+
+{
+    "id":4,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":100,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"Emotional",
+    "description":"This is the story book"},
+{
+    "id":5,
+    "name":"story book",
+    "title" :"lorem ipsume dolor luih yhuu oihk tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":150,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"selflessness book",
+    "description":"This is the story book"},
+{
+    "id":6,
+    "name":"finance book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"},
+{
+    "id":7,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":249,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"song",
+    "description":"This is the story book"},
+
+   { "id":8,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":349,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"selflessness book",
+    "description":"This is the story book"},
+{
+    "id":9,
+    "name":"story book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":499,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"movie",
+    "description":"This is the story book"},
+{
+    "id":10,
+    "name":"biography book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"},
+
+   { "id":11,
+    "name":"history book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"},
+{
+    "id":12,
+    "name":"holy book",
+    "title" :"lorem ipsume dolor tdit ghfb ugurf conft deftv ku dfsk tehe aknd",
+    "price":0,
+    "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1188120119.1725425012&semt=ais_hybrid",
+    "category":"free",
+    "description":"This is the story book"
+}
+]
